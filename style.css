@@ -1,0 +1,154 @@
+*{  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #30697d;
+}
+.logo h1{
+    color: white;
+    font-size: 60px;
+    font-family: system-ui;
+    margin: 0;
+    height: 40px;
+    line-height: 0;
+}
+.under-p{
+    width: 45px;
+    margin: 0px 7px;
+    height: 13px;
+    background-color: white;
+}
+
+.three{
+    width: 55px;
+    height: 50px;
+    padding: 20px 10px;
+    cursor: pointer;
+}
+div.line{
+    width: 40px;
+   background-color:white;
+   height: 4px;
+   margin: 6px 5px;
+}
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 150px 10px;
+}
+/* section-2 starts here */
+.header{
+    text-align: center;
+    padding: 200px 0;
+    ba
+}
+.uper line{
+    width: 300px;
+    background-color: black;
+    height: 2px;
+    margin: 420px;
+}
+.header-2 {
+    font-size: 40px;
+    font-family: sans-serif;
+    color: blanchedalmond;
+}
+.Hire-Me-container{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 100px 0;
+}
+.left-image img {
+    width: 405px;
+    margin-top: -60px;
+}
+.right-text {
+    background-color: white;
+    line-height: 30px;
+}
+.hire-button {
+    padding: 10px;
+    width: 200px;
+    color: wheat;
+    border-style: none;
+    cursor: pointer;
+    background-color: red;
+}
+.latest{
+    background-color: white;
+}
+.latest-header {
+    text-align: center;
+    padding: 100px 0px;
+    line-height: 50px;
+}
+.latest-header h2{
+    font-family: system-ui;
+    font-size: 50px;
+}
+.latest-header h4{
+    font-family: sans-serif;
+    font-size: 17px;
+    color: hsl(0deg 0% 61%);
+}
+.empty-box{
+    width: 311px;
+    height: 290px;
+}
+.latest-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 111px;
+    padding-top: 0px;
+}
+.empty-box1{
+    width: 630px;
+    height: 290px;
+}
+.latest-container2 {
+    justify-content: space-between;
+    display: flex;
+    padding: 111px;
+    padding-top: 0px;
+    margin-top: -101px;
+}
+.message{
+    background-color: hsl(198deg 38% 35%);
+}
+.message-container{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0px;
+}  
+.form{
+    padding: 40px 60px;
+    background-color: hsl(250deg 10% 43%);
+    height: 600px;
+}
+.h2-form{
+    font-family: sans-serif;
+    color: white;
+} 
+form{
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+    padding: 50px 0px;
+}
+form input textarea {
+    padding: 12px;
+    border: 1px solid white;
+    background-color: transparent;
+}
+.form-button{
+    width: 130px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border-style: none;
+    cursor: pointer;
+}
